@@ -11,7 +11,7 @@ body{
     padding: 0;
 }
 .navbar.fixed-left {
-    top: 70px
+    top: 66px
 }
 .navbar-brand {
  padding-left: 20px
@@ -23,6 +23,7 @@ body{
     height: 100%;
     box-shadow: #463F3F 2px 2px 10px;
 }
+
 .bg-mammoth-secondary {
     background-color: var(--mammoth-primary);
     position: absolute;
@@ -30,6 +31,7 @@ body{
     left: 0;
     z-index: 1;
     box-shadow: #463F3F 2px 2px 10px;
+    z-index: 1;
 }
 .welcome-h1 {
     font-weight: bold;
